@@ -1,0 +1,506 @@
+[
+ {
+  "layer": "world/dirt/icelandic_dirt_01_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 2,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/dirt/icelandic_dirt_02_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 2,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/dirt/icelandic_dirt_03_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 3,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/dirt/dirt_ground_soil_02_wld",
+  "tint": [
+   1.0,
+   0.9411759972572327,
+   0.8823530077934265
+  ],
+  "decal": 0,
+  "flags": 3,
+  "ramp": 7.0,
+  "mid": 0.5,
+  "stoch": 1,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/concrete/asphalt_light_dirty_cracked_01_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 0,
+  "ramp": 5.0,
+  "mid": 0.699999988079071,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/lava_land/volcanic_dry_mud_01_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 1,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 2,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/lava_land/volcanic_dry_mud_01_wld",
+  "tint": [
+   0.4469349980354309,
+   0.4468899965286255,
+   0.4468899965286255
+  ],
+  "decal": 0,
+  "flags": 1,
+  "ramp": 7.0,
+  "mid": 0.6000000238418579,
+  "stoch": 3,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/moss/icelandic_moss_01_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 2,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/moss/icelandic_moss_01_yellow_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 2,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/stone/rock_lava_tile_desertland_01",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 3,
+  "ramp": 5.0,
+  "mid": 0.699999988079071,
+  "stoch": 4,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/rubble/rubble_standard03_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 2,
+  "ramp": 7.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/dirt/rubble_standard04",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 0,
+  "ramp": 7.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/stone/desertlands_stone_landslide_01_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 0,
+  "ramp": 7.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/flora/plant_flowers_01_landscape_01",
+  "tint": [
+   0.7508540153503418,
+   0.7507789731025696,
+   0.7507789731025696
+  ],
+  "decal": 0,
+  "flags": 0,
+  "ramp": 10.0,
+  "mid": 0.699999988079071,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/flora/plant_flowers_01_landscape_02",
+  "tint": [
+   0.6736680269241333,
+   0.673600971698761,
+   0.673600971698761
+  ],
+  "decal": 0,
+  "flags": 0,
+  "ramp": 10.0,
+  "mid": 0.699999988079071,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/snow/desertlands_ice_03_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 3,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 5,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/snow/desertlands_snow_03_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 0,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/moss/icelandic_moss_snow_01_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 2,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/snow/desertlands_snow_02_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 0,
+  "ramp": 5.0,
+  "mid": 0.699999988079071,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/snow/desertlands_snow_04_wld_dn",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 2,
+  "ramp": 2.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/stone/desertlands_sulfur_01_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 1,
+  "ramp": 3.7200000286102295,
+  "mid": 0.9240000247955322,
+  "stoch": 6,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/stone/desertlands_sulfur_02_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 1,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 7,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/stone/desertlands_sulfur_03_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 1,
+  "ramp": 7.0,
+  "mid": 0.699999988079071,
+  "stoch": 8,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/water/desertlands_sulfur_water_01",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 1,
+  "ramp": 7.0,
+  "mid": 0.800000011920929,
+  "stoch": 9,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/lava_land/volcanic_ground_03_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 2,
+  "ramp": 7.0,
+  "mid": 0.699999988079071,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/lava_land/volcanic_ground_04_wld",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 3,
+  "ramp": 4.0,
+  "mid": 0.5,
+  "stoch": 10,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/dirt/foothpath_dirt_landscape_neutral_wld",
+  "tint": [
+   0.18380500376224518,
+   0.1205890029668808,
+   0.09196700155735016
+  ],
+  "decal": 0,
+  "flags": 0,
+  "ramp": 2.0,
+  "mid": 0.5,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "layer": "world/dirt/divided_dirt_water_puddles_landscape_01",
+  "tint": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "decal": 0,
+  "flags": 0,
+  "ramp": 7.0,
+  "mid": 0.699999988079071,
+  "stoch": 0,
+  "approx": [
+   0.5,
+   0.5,
+   0.5
+  ]
+ }
+]

@@ -1,0 +1,15 @@
+# Copy to kit.local.toml (gitignored) and point each root at your machine.
+# Any key can also come from the environment as S30KIT_<KEY>.
+[paths]
+work = "D:/scratch"                       # per-map scratch (<short>_terrain, <short>_dedi, paks_dec, ...)
+maps = "D:/assets/s21-maps"               # map workspaces, one folder per map
+assets = "D:/assets"                      # parent of maps (shared extracts)
+deploy = "D:/s21-full"                    # S21 client deploy root (paks/, platform/)
+s30_game = "D:/Steam/steamapps/common/Apex Legends"
+repak = "D:/src/RePak"
+rsx = "D:/src/rsx"
+bspconv = "D:/src/bspconv"
+animconv = "D:/src/R5-AnimConv"
+scripts_repo = "D:/src/s21-platform"
+texconv_dir = "D:/tools/texconv"
+winsdk_bin = "C:/Program Files (x86)/Windows Kits/10/bin/10.0.26100.0/x64"
